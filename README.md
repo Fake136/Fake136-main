@@ -12,9 +12,8 @@ I'm a backend engineer, infrastrucure manager, and systems administrator. I love
 
 ## 📈 Stats (Do not look)
 
-| <a href="https://github.com/Fake136/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fake136&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Fake136/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fake136&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/Fake136"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fake136&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fake136's github stats" /></a> | <a href="https://github.com/Fake136"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fake136&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-| ------------- | ------------- |
 
 
 ## 👋 Goodbye
