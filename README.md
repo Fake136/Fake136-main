@@ -12,13 +12,10 @@ I'm a backend engineer, infrastrucure manager, and systems administrator. I love
 
 ## 📈 Stats (Do not look)
 
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=Fake136&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fake136&layout=compact&theme=radical" alt="Top Languages" />
-
+ <p style="text-align: center;">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fake136&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fake136&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 👋 Goodbye
 Thanks for visiting my GitHub profile
